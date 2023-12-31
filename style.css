@@ -63,4 +63,7 @@ nav a:hover{
     -webkit-text-stroke: 1px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
 }
+i:hover{
+    cursor: pointer;
+}
 
